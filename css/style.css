@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	color: #9b9b9b;
+}
+
+#home{
+	padding-top: 10%;
+	background-image:url( ../img/bg-hero.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 10%;
+	text-align: center;
+	color: #FFFFFF;
+}
+.btn-light{
+	align-content: center;
+	background-color: #ff4514;
+	width: 50%;
+	color: #FFFFFF;
+	margin-top: 20px;
+	border-radius: 50px;
+	
+}
+#home h1{
+	font-size: 120px;
+	font-weight: 400;
+	text-align:center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+
+#home p{
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	
+}
+#easy{
+	border-bottom: 1px solid #ddd;
+}
+.section{
+	padding: 7% 0;
+}
+.title{
+	font-size: 50px;
+	font-weight: 500;
+	color: #2c3142;
+}
+.subtitle{
+	font-size: 24px;
+	font-weight: 500;
+	color: #858a99;
+	margin-bottom: 5%;
+}
+
+
+
+#learn{
+	background-color: #FFFFFF;
+	text-align: left;
+	font-size: 14px;
+}
+#learn h1{
+	text-align: center;
+	padding-bottom: 60px;
+	padding-top: 60px;
+	color: #000000;
+	font-weight: 700;
+}
+#learn img{
+	width: 60px;
+	padding-top:10px;
+	padding-bottom: 20px;
+}
+#learn h3{
+	color: #000000;
+}
+#about{
+	background-image: url(../img/bg-counter.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#about h1{
+	color:  #ff4514;
+	text-align: center;
+	padding-top: 60px;
+	font-weight: 800;
+	font-size: 70px;
+	
+}
+#about h3{
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 60px;
+}
+footer{
+	background-color: #2078dc;
+	color:#fff;
+	padding: 30px 0;
+}
+footer .fab{
+	width:45px;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+	background-color: #fff;
+	color: #333;
+	border-radius: 100%;
+}
